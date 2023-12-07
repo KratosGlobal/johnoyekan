@@ -1,14 +1,13 @@
-# Hi there! 👋 I'm John Oyekan
+### Hi there 👋, my name is John Oyekan
+#### Development and design
+![Development and design](https://i.postimg.cc/cJq8Sfc1/cyber-security-Made-with-Poster-My-Wall.jpg)
 
-Welcome to my GitHub! I'm a passionate web developer with expertise in HTML, CSS, and Javascript. I love crafting engaging and interactive web experiences that bring ideas to life.
+ I'm a passionate web developer with expertise in HTML, CSS, and Javascript. I love crafting engaging and interactive web experiences that bring ideas to life.
 
-## 💼 Skills
-- **HTML**: Crafting the structure of the web.
-- **CSS**: Styling things up and making them visually appealing.
-- **Javascript**: Adding interactivity and making the web dynamic.
+Skills: JS / HTML / CSS
 
-## 📫 Let's Connect
-- Facebook: [John Oyekan](https://web.facebook.com/oyekan.john.7)
-- Instagram: [@yourhandle](https://www.instagram.com/john_kratos01/)
+- 🔭 I’m currently working on this page. 
 
-Feel free to reach out if you have any questions or just want to chat. Happy coding! 🚀
+
+
+
